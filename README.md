@@ -7,16 +7,16 @@
 
 ---
 
-## 👋 مرحباً! أنا موسى العظمي
+## 👋 Hi there! I'm Moussa El Aadhmi
 
-🎓 تلميذ في [المدرسة العليا للتكنولوجيا - العيون، المغرب](https://www.umi.ac.ma/)  
-💻 أتعلم تطوير الويب باستخدام **HTML, CSS, JavaScript**  
-🐍 أبرمج أيضاً باستخدام **Python, C, C++**  
-🚀 أسعى إلى تطوير مهاراتي في بناء تطبيقات قوية ومفيدة
+🎓 A student at [École Supérieure de Technologie - Laayoune, Morocco](https://www.umi.ac.ma/)  
+💻 Learning **Web Development** with **HTML, CSS, JavaScript**  
+🐍 Also programming in **Python, C, and C++**  
+🚀 Passionate about building useful and powerful applications
 
 ---
 
-## 🧰 الأدوات التي أستخدمها
+## 🧰 Tools & Technologies I Use
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -30,15 +30,15 @@
 
 ---
 
-## 🔭 حالياً أعمل على:
+## 🔭 I'm Currently Working On
 
-- مشاريع صغيرة باستخدام HTML وCSS وJS  
-- تعلم أساسيات Git وGitHub  
-- تطوير مهاراتي في الخوارزميات باستخدام C/C++
+- Small web projects using HTML, CSS, and JavaScript  
+- Mastering the basics of Git and GitHub  
+- Strengthening my algorithm skills with C/C++
 
 ---
 
-## 📫 تواصل معي
+## 📫 Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
@@ -46,13 +46,13 @@
 
 ---
 
-## ⚡ بعض الحقائق المسلية
+## ⚡ Fun Facts
 
-- أحب تجربة أنظمة **Linux** واكتشاف أدوات الطرفية.
-- أستمتع ببناء واجهات مستخدم بسيطة وجذابة.
-- أعتقد أن الشيفرة النظيفة أهم من الشيفرة السريعة.
+- I enjoy exploring **Linux** systems and command-line tools.  
+- I'm passionate about creating clean and user-friendly interfaces.  
+- I believe **clean code** is more important than just quick code.
 
 ---
 
-> *"التعلم رحلة، وليس سباقاً."*
+> *"Learning is a journey, not a race."*
 
