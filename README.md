@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 Hi there! I'm Moussa El Aadhmi
+## 👋 Hi there! I'm Moussa LAADMI
 
 🎓 A student at [École Supérieure de Technologie - Laayoune, Morocco](https://www.umi.ac.ma/)  
 💻 Learning **Web Development** with **HTML, CSS, JavaScript**  
