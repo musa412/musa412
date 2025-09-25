@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>portfolio</title>
+    <meta name="description" content="A portfolio showcasing my skills and projects as a web developer.">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="loader">
+        <div class="loader-text">Loading...</div>
+        <div class="loader-bar">
+            <div class="loader-progress"></div>
+        </div>
+    </div>
+    <header>
+        <h1>Welcome to My Portfolio</h1>
+        <h2>i am moussa laadmi</h2>
+    </header>
+    <nav>
+        <a href="#about">About<span></span></a>
+        <a href="#skills">skills<span></span></a>
+        <a href="#projects">Projects<span></span></a>
+        <a href="#contact">Contact<span></span></a>
+    </nav>
+    <main>
+        <section id="about">
+            <div class="text">
+                <h3>about me</h3>
+                <p>
+                    I'm a passionate web developer dedicated to crafting innovative digital solutions that combine simplicity and efficiency. I build interactive user interfaces and seamless user experiences using HTML, CSS, and JavaScript, with a special enthusiasm for learning new technologies and expanding my knowledge in various programming languages like Python, C, and C++.<br>
+I believe programming is not just about writing code—it’s an art of problem-solving and creating new ways to make people’s lives easier. I’m constantly working to improve my skills through personal projects and coding challenges, aiming to contribute to building applications and websites that deliver real value to users.
+                </p>
+            </div>
+            <div class="image">
+                <div class="image2">
+                    <img src="images/profile.png" alt="profile picture">
+                </div>
+            </div>
+        </section>
+        <section id="skills">
+            <div class="banner">
+                <div class="slider" style="--quantity: 11;">
+                    <div class="item" style="--position: 1"><i class="fa-brands fa-js"></i></div>
+                    <div class="item" style="--position: 2"><i class="fa-brands fa-java"></i></div>
+                    <div class="item" style="--position: 3"><i class="fa-brands fa-css3-alt"></i></div>
+                    <div class="item" style="--position: 4"><i class="fa-brands fa-html5"></i></div>
+                    <div class="item" style="--position: 5"><i class="fa-brands fa-python"></i></div>
+                    <div class="item" style="--position: 6"><i class="fa-brands fa-react"></i></div>
+                    <div class="item" style="--position: 7"><i class="fa-brands fa-node"></i></div>
+                    <div class="item" style="--position: 8"><i class="fa-brands fa-vuejs"></i></div>
+                    <div class="item" style="--position: 9"><i class="fa-brands fa-php"></i></div>
+                    <div class="item" style="--position: 10"><i class="fa-brands fa-golang"></i></div>
+                    <div class="item" style="--position: 11"><i class="fa-brands fa-rust"></i></div>
+                </div>
+                <div class="content">
+                    <h3>my skills</h3>
+                    <div class="model"></div>
+                </div>
+            </div>
+            <h3>my skills</h3>
+            <div class="carousel">
+                <div class="group">
+                    <div class="item"><i class="fa-brands fa-js"></i></div>
+                    <div class="item"><i class="fa-brands fa-java"></i></div>
+                    <div class="item"><i class="fa-brands fa-css3-alt"></i></div>
+                    <div class="item"><i class="fa-brands fa-html5"></i></div>
+                    <div class="item"><i class="fa-brands fa-python"></i></div>
+                    <div class="item"><i class="fa-brands fa-react"></i></div>
+                    <div class="item"><i class="fa-brands fa-node"></i></div>
+                    <div class="item"><i class="fa-brands fa-vuejs"></i></div>
+                    <div class="item"><i class="fa-brands fa-php"></i></div>
+                    <div class="item"><i class="fa-brands fa-golang"></i></div>
+                    <div class="item"><i class="fa-brands fa-rust"></i></div>
+                </div>
+                <div aria-hidden class="group">
+                    <div class="item"><i class="fa-brands fa-js"></i></div>
+                    <div class="item"><i class="fa-brands fa-java"></i></div>
+                    <div class="item"><i class="fa-brands fa-css3-alt"></i></div>
+                    <div class="item"><i class="fa-brands fa-html5"></i></div>
+                    <div class="item"><i class="fa-brands fa-python"></i></div>
+                    <div class="item"><i class="fa-brands fa-react"></i></div>
+                    <div class="item"><i class="fa-brands fa-node"></i></div>
+                    <div class="item"><i class="fa-brands fa-vuejs"></i></div>
+                    <div class="item"><i class="fa-brands fa-php"></i></div>
+                    <div class="item"><i class="fa-brands fa-golang"></i></div>
+                    <div class="item"><i class="fa-brands fa-rust"></i></div>
+                </div>
+            </div>
+        </section>
+        <section id="projects">
+            <h3>my projects</h3>
+            <div class="card-container">
+                <article>
+                    <img src="images/project1.jpg" alt="project1">
+                    <div class="text">
+                        <span>I will share my 1st project in this place</span>
+                        <h2>project1</h2>
+                        <a href="#">visit</a>
+                    </div>
+                </article>
+                <article>
+                    <img src="images/project2.jpg" alt="project1">
+                    <div class="text">
+                        <span>I will share my 2nd project in this place</span>
+                        <h2>project2</h2>
+                        <a href="#">visit</a>
+                    </div>
+                </article>
+                <article>
+                    <img src="images/project3.jpg" alt="project1">
+                    <div class="text">
+                        <span>I will share my 3rd project in this place</span>
+                        <h2>project3</h2>
+                        <a href="#">visit</a>
+                    </div>
+                </article>
+            </div>
+        </section>
+        <section id="contact">
+            <h3>contact me</h3>
+            <form action="">
+                <label for="name">name</label>
+                <input type="text" id="name" placeholder="enter your name" required>
+                <label for="email">email</label>
+                <input type="email" id="email" placeholder="enter your email" required>
+                <label for="message">message</label>
+                <textarea id="message" rows="4" placeholder="enter your message" required></textarea>
+                <input type="submit" value="send">
+            </form>
+        </section>
+    </main>
+    <footer>
+        <div id="foot">
+            <a href="#" data-social="instagram" style="--accent-color: #e1306c;">
+                <i class="fa-brands fa-instagram"></i>
+            </a>
+            <a href="#" data-social="github" style="--accent-color: black;">
+                <i class="fa-brands fa-github"></i>
+            </a>
+            <a href="#" data-social="linkedin" style="--accent-color: #0077b5;">
+                <i class="fa-brands fa-linkedin"></i>
+            </a>
+            <a href="#" data-social="twitter" style="--accent-color: black;">
+                <i class="fa-brands fa-x-twitter"></i>
+            </a>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
