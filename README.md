@@ -1,10 +1,10 @@
 <div align="center">
 
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
-</div>
 
 # Welcome To My GitHub Profile ! 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" alt="Workspace" />  
+</div>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 👋 Hi there! I'm Moussa LAADMI
 
-🎓 A student at [École Supérieure de Technologie - Laayoune, Morocco](https://www.umi.ac.ma/)  
+🎓 A student at [Higher School of Technology - Laayoune, Morocco](https://www.umi.ac.ma/)  
 💻 Learning **Web Development** with **HTML, CSS, JavaScript**  
 🐍 Also programming in **Python, C, and C++**  
 🚀 Passionate about building useful and powerful applications
